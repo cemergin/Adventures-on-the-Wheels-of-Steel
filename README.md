@@ -2,12 +2,14 @@
 
 ![Adventures on the Wheels of Steel](/Images/completed1.JPG)
 
+## Place blocks on the turntable
+
+## Make some noise!
+
 ## What is this?
 
 *Adventures on the Wheels of Steel* is a tangible sequencer that allows users to create their own MIDI patterns by placing small objects, in this case lego blocks covered with colored tape, on a rotating disk found on turntables. The physical interface allows users to make beats, play chords or notes using the 4 channels equiped with color recognition for variations. It utilizes Arduino Leonardo's native USB connectivity to tranfer MIDI messages to any Digital Audio Workstation imagenable. 
-
-USB MIDI sequencer that uses  
-
+ 
 ## Why is this made? 
 
 ## How did I end up here?
