@@ -1,6 +1,6 @@
 # Adventures on the Wheels of Steel<sup>*</sup>
 
-![Adventures on the Wheels of Steel](/Images/completed1.jpg)
+![Adventures on the Wheels of Steel](/Images/completed1.JPG)
 
 ## What is this?
 
