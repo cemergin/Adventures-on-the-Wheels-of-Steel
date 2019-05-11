@@ -1,21 +1,47 @@
 # Adventures on the Wheels of Steel<sup>*</sup>
 
-## Problem Space 
+## What is this?
 
-## Background Review
+## Why is this made? 
 
-### Inspiration Project
+## How did I end up here?
 
-### Precident Projects 
+### Inspiration
 
-### Related Resources
+[Beat Blox by Per Holmquist](https://open.spotify.com/track/7xMzNQkDzu3JZkhURGvH7p?si=wFec3MJkSc-wyBhV8cBQGQ)
 
-## Goal of the project
+### Forerunners
 
-## Technical Implementation 
+[Spinning Disc Step Sequencer](https://learn.adafruit.com/spinning-disc-step-sequencer/overview)
 
-## Creating the form 
+[Coin Sequencer](http://www.varal.org/coinsequencer/)
 
-### "With A Little Help From My Friends" 
+[Tquencer](https://jensvetter.de/files/pdf/tquencer_acm.pdf)
+
+[UTS-1](https://www.youtube.com/watch?v=3NAn9fSdh8M)
+
+[XOXX Composer](http://xoxxcomposer.axelbluhme.se/)
+
+## How can you make this? 
+
+### Circuit 
+
+### Code
+
+### Form  
+
+#### "With A Little Help From My Friends" 
+
+## Related Resources
+
+[Introduction to MIDI by the MIDI Association](https://www.midi.org/images/easyblog_articles/43/intromidi.pdf)
+
+[MIDI Message Codes Explained](http://www.songstuff.com/recording/article/midi_message_format/)
+
+[Arduino MIDI Output Basics](https://www.midi.org/articles-old/arduino-midi-output-basics)
+
+[MIDI Output Using an Arduino](http://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-midi-output-using-an-arduino/)
+
+[Arduino MIDIUSB Library](https://www.arduino.cc/en/Reference/MIDIUSB)
 
 * [Grandmaster Flash & the Furious Five - Adventures of Grand Master Flash On the Wheels of Steel](https://open.spotify.com/track/7xMzNQkDzu3JZkhURGvH7p?si=wFec3MJkSc-wyBhV8cBQGQ)
