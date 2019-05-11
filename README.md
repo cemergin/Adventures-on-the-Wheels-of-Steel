@@ -2,6 +2,10 @@
 
 ## What is this?
 
+*Adventures on the Wheels of Steel* is a tangible sequencer that allows users to create their own musical 
+
+USB MIDI sequencer that uses  
+
 ## Why is this made? 
 
 ## How did I end up here?
@@ -26,7 +30,22 @@
 
 ### Circuit 
 
+#### Basic Circuit 
+
+![Basic Circuit](/Schematics/tonearm_basic.png)
+
+
+#### Initial Prototype
+
+![Initial Prototype](/Schematics/tonearm_prototype.png)
+
+#### Final Circuit
+
+![Final Circuit](/Schematics/tonearm_final.png)
+
 ### Code
+
+[You can reach the final code here](/Code/tonearm.ino)
 
 ### Form  
 
