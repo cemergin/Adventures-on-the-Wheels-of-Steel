@@ -58,6 +58,10 @@ USB MIDI sequencer that uses
 
 #### "With A Little Help From My Friends" 
 
+#### Tonearm
+
+![Tonearm Form](/Form/tonearm.gif)
+
 ## Related Resources
 
 [Introduction to MIDI by the MIDI Association](https://www.midi.org/images/easyblog_articles/43/intromidi.pdf)
