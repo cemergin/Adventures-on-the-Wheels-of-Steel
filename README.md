@@ -1,5 +1,7 @@
 # Adventures on the Wheels of Steel<sup>*</sup>
 
+![Adventures on the Wheels of Steel](/Images/completed1.jpg)
+
 ## What is this?
 
 *Adventures on the Wheels of Steel* is a tangible sequencer that allows users to create their own musical 
