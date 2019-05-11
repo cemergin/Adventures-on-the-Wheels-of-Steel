@@ -28,12 +28,19 @@ USB MIDI sequencer that uses
 
 ## How can you make this? 
 
+### Components
+
+1. 1 x Arduino Leonardo
+1. 1 x [SparkFun Multiplexer Breakout - 8 Channel](https://www.sparkfun.com/products/13906)
+1. 1 x [Byron Statics Record Player](https://www.amazon.com/gp/product/B07J2NZLZS/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+1. 4 x [Adafruit APDS9940](https://www.adafruit.com/product/3595) 
+1. 4 x [Adafruit LED Sequins - Warm White](https://www.adafruit.com/product/1758)
+
 ### Circuit 
 
 #### Basic Circuit 
 
 ![Basic Circuit](/Schematics/tonearm_basic.png)
-
 
 #### Initial Prototype
 
