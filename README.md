@@ -1,10 +1,10 @@
 # Adventures on the Wheels of Steel<sup>*</sup>
 
-![Adventures on the Wheels of Steel](/Images/completed1.JPG)
-
 ### Place blocks on the turntable
 
 ### Make some noise!
+
+![Adventures on the Wheels of Steel](/Images/completed1.JPG)
 
 ## What is this?
 
