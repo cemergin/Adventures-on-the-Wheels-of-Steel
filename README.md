@@ -72,7 +72,7 @@ Final tonearm form designed by [Özgüç Bertuğ Çapunaman](https://github.com/
 
 ## Related Resources
 
-[Selfmade Tutorial on MIDI & Arduino](/Tutorials/MIDI101_#1)
+[Selfmade Tutorial on MIDI & Arduino](/Tutorials/MIDI101_#1.md)
 
 [Introduction to MIDI by the MIDI Association](https://www.midi.org/images/easyblog_articles/43/intromidi.pdf)
 
