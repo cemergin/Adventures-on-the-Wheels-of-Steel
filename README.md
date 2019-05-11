@@ -62,9 +62,13 @@
 
 #### "With A Little Help From My Friends"<sup>**</sup>
 
+Final tonearm form designed by [Özgüç Bertuğ Çapunaman](https://github.com/ozgucbertug) on Rhino.
+
 #### Tonearm
 
 ![Tonearm Form](/Form/tonearm.gif)
+
+[Tonearm Lasercutting Pattern](tonearm.dxf)
 
 ## Related Resources
 
