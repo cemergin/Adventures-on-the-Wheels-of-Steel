@@ -8,17 +8,27 @@
 
 ## What is this?
 
-*Adventures on the Wheels of Steel* is a tangible sequencer that allows users to create their own MIDI patterns by placing small objects, in this case lego blocks covered with colored tape, on a rotating disk found on turntables. The physical interface allows users to make beats, play chords or notes using the 4 channels equiped with color recognition for variations. It utilizes Arduino Leonardo's native USB connectivity to tranfer MIDI messages to any Digital Audio Workstation imagenable. 
+*Adventures on the Wheels of Steel* is a tangible sequencer that allows users to create their own MIDI patterns by placing small objects, in this case lego blocks covered with colored tape, on a rotating disk found on turntables. The physical interface allows users to make beats, play chords or notes using the 4 channels. All channels are equiped with color recognition which creates room for greater variability. It utilizes Arduino Leonardo's native USB connectivity to tranfer MIDI messages to any Digital Audio Workstation imagenable. 
  
 ## Why is this made? 
 
+The project has been created as part of 49-719 *Internet of Things - In Depth* class that I've attended at Carnegie Mellon University during Spring 2019 semester. *Adventures on the Wheels of Steel* pays homage to the legendary Grand Master Flash, who single handedly redefined the use of turntables in music, while investigating how tangible interfaces can ease and enchant the idea generation process during music making. 
+
 ## How did I end up here?
 
+When I first entered electrical engineering school back in 2012, I had a dream of creating electronic music instruments, guitar pedals and amplifiers. Unfortunately, I learnt the hard way that undergraduate engineering school is not really the place where dreams come true. This is not true for graduate education though.
+
+Long story short, when I was given the chance to work on any project idea I want for 6 weeks, I knew that I was going to create something to do with music. All the pieces came together when I stumbled upon the Beat Blox project created by Per Holmquist. I looked at his take on the turntable as a tool to create music and said "I can make that". Then for 6 weeks I focused my energy on replicating his design and trying to find ways of adding features that can make it more expressive and adaptable. I thought that to create a real music making tool, I needed to integrate MIDI to the design and add a way of creating variation.  
+
 ### Inspiration
+
+I got most of my inspiration from this project. Its simple beautiful at the same time. Check it out before you continue to understand where I'm coming from.
 
 [Beat Blox by Per Holmquist](https://open.spotify.com/track/7xMzNQkDzu3JZkhURGvH7p?si=wFec3MJkSc-wyBhV8cBQGQ)
 
 ### Forerunners
+
+Tangible interfaces are not anything new for electronic music making tools. Here are some of the recent examples that I looked at while working on my design. The beauty of making things with technology is that when you figure out a way to make a particular tool, adapting your findings to create designs that are similar on the inside but different on the outside is easy. So here are some inspiration for everyone who wants to create their own MIDI controllers.   
 
 [Spinning Disc Step Sequencer](https://learn.adafruit.com/spinning-disc-step-sequencer/overview)
 
@@ -31,6 +41,8 @@
 [XOXX Composer](http://xoxxcomposer.axelbluhme.se/)
 
 ## How can you make this? 
+
+
 
 ### Components
 
