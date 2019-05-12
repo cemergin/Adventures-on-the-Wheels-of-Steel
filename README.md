@@ -42,7 +42,11 @@ Tangible interfaces are not anything new for electronic music making tools. Here
 
 ## How can you make this? 
 
+I've listed the components I used along with schematics and lasercutting patterns to recreate what I made below but I highyl recommend you look at the tutorial I created about MIDI and creating MIDI instruments with Arduino using the ling below. 
 
+[Basic Tutorial on MIDI](https://github.com/cemergin/Adventures-on-the-Wheels-of-Steel/blob/master/Tutorials/MIDI101_%231.md)
+
+Just hook up the components the way I described below and upload the code and you will be good to go. Design physical enclosure to taste and start making some noise! I hacked a already existing record player to use its rotating disk but you don't have to. If you know more mechatronics than me just do your thing and go nuts! 
 
 ### Components
 
@@ -56,21 +60,31 @@ Tangible interfaces are not anything new for electronic music making tools. Here
 
 #### Basic Circuit 
 
+I used this circuit as a proof of concept for my idea and extended the capabilities from here. I feel like starting small is always easier when you are developing projects such as this one. 
+
 ![Basic Circuit](/Schematics/tonearm_basic.png)
 
 #### Initial Prototype
+
+The initial prototype used a female MIDI jack to output MIDI information but that's not really convenient if you are mainly creating music with your computer. 
 
 ![Initial Prototype](/Schematics/tonearm_prototype.png)
 
 #### Final Circuit
 
+Arduino Leonardo for the resque!
+
 ![Final Circuit](/Schematics/tonearm_final.png)
 
 ### Code
 
+The code is pretty self explanatory. Check the comments I added to understand how it does what it does. 
+
 [You can reach the final code here](/Code/tonearm.ino)
 
 ### Form  
+
+First things first, I suck at CAD! On the other hand, I have a couple friends that are experts at it, so I got some help while designing the right enclosure for my circuit. 
 
 #### "With A Little Help From My Friends"<sup>**</sup>
 
